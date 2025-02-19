@@ -1,0 +1,16 @@
+.pink-headers{
+   background-color: pink; 
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.pink-headers.bigger-text{
+    font-size: larger;
+}
+#no2{
+    color: blue;
+    font-size: x-large;
+}
+#no4{
+    background-color: lightgreen;
+    font-size: large;
+    font-weight: bold;
+}
